@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SoundBlast - Register Now</title>
+  <link rel="stylesheet" href="assets/css/register.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" >
+
+</head>
+<body>
+  <!-- header -->
+  <nav class="navbar navbar-expand-lg ">
+    <div class="container-fluid">
+      <div class="logo">
+      <a class="navbar-brand "  href="home.html">
+        <img src="pic/sound.png" alt="" width="40" height="auto" class="d-inline-block  ">
+        
+      </a><span>
+      SoundBlast</span>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ">
+          
+            <li class="nav-item ">
+              <a class="nav-link " href="index.html">
+                Music Categories
+              </a>
+             
+            </li>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#top-artist">Top Artist</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery.html">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="faqs.html">FAQs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact Us</a>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link register" href="register.html">
+
+              <i class="fa-regular fa-user"></i>Register Now
+            </a>
+          </li> -->
+      
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- form -->
+  <div class="form-container" >
+    <h2>Register Form</h2>
+    <form id="registrationForm" onsubmit="return validateForm()">
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" placeholder="Enter username">
+        <div class="error" id="usernameError"></div>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" placeholder="Enter email">
+        <div class="error" id="emailError"></div>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="Enter password">
+        <div class="error" id="passwordError"></div>
+      </div>
+      <div class="form-group">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm password">
+        <div class="error" id="confirmPasswordError"></div>
+      </div>
+      <button type="submit" class="btn">Register Now</button>
+    </form>
+  </div>
+  <!-- Footer Section -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="footer-col">
+          <h4>SoundBlast</h4>
+          <ul>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="contact.html">Contact us</a></li>
+            <li><a href="register.html">Register Now</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Quik links</h4>
+          <ul>
+            <!-- <li><a href="home.html">Home</a></li> -->
+            <li><a href="index.html">Music Catagory</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="faqs.html">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Music Catagory</h4>
+          <ul>
+            <li><a href="index.html">Trendind Now</a></li>
+            <li><a href="index.html#top-charts">Top Charts</a></li>
+            <li><a href="index.html#new-releases">New Releases</a></li>
+            <li><a href="index.html#old-songs">Old Songs</a></li>
+            <!-- <li><a href="index.html#search">Top Searched Songs</a></li> -->
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Follow us</h4>
+
+          <div class="social-links">
+            <a href=""><i class="fab fa-facebook-f"></i></a>
+            <a href=""><i class="fab fa-twitter"></i></a>
+            <a href=""><i class="fab fa-instagram"></i></a>
+            <a href=""><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- script  -->
+<script>
+function validateForm() {
+  let isValid = true;
+  const usernameRegex = /^[a-zA-Z0-9_]{3,16}$/;
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; 
+  const passwordRegex = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/; 
+  const username = document.getElementById('username').value.trim();
+  const email = document.getElementById('email').value.trim();
+  const password = document.getElementById('password').value.trim();
+  const confirmPassword = document.getElementById('confirmPassword').value.trim();
+  const usernameError = document.getElementById('usernameError');
+  const emailError = document.getElementById('emailError');
+  const passwordError = document.getElementById('passwordError');
+  const confirmPasswordError = document.getElementById('confirmPasswordError');
+  usernameError.textContent = '';
+  emailError.textContent = '';
+  passwordError.textContent = '';
+  confirmPasswordError.textContent = '';
+  if (!usernameRegex.test(username)) {
+    usernameError.textContent = 'Username must be 3-16 characters (letters, numbers, underscores).';
+    isValid = false;
+  }
+  if (!emailRegex.test(email)) {
+    emailError.textContent = 'Enter a valid email address.';
+    isValid = false;
+  }
+  if (!passwordRegex.test(password)) {
+    passwordError.textContent = 'Password must be at least 8 characters, include letters and numbers.';
+    isValid = false;
+  }
+  if (password !== confirmPassword) {
+    confirmPasswordError.textContent = 'Passwords do not match.';
+    isValid = false;
+  }
+  return isValid;
+}
+</script>
+ 
+</body>
+</html>

@@ -1,0 +1,655 @@
+{
+  "trendingnow":[
+    {
+      "title": "Buckle Up",
+      "artist": "Shubh",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/image/songs/Mere Dholna.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+  ],
+  "topchart":[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    }
+  ],
+  "newreleases":[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    }
+  ],
+  "pop":[
+   
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    
+    }
+  ],
+  "rock":[
+    
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+  ],
+  "hiphop":[
+    
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+  ],
+  "classical":[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+    ],
+    "oldsongs":[
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+  
+  {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song1.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+  
+  {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song1.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      }
+    ],
+    "english":[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    
+    }
+  ],
+  "hindi":[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+  ],
+  "korean":[
+    
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+  ],
+  "spanish":[
+    
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song3.mp3"
+    },
+{
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song1.mp3"
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "thumbnail": "pic/Buckle Up.jpeg",
+      "audio": "assets/audio/song2.mp3"
+    }
+    ],
+  "search":[
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+  
+  {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song1.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      },
+  
+  {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song1.mp3"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song2.mp3"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "thumbnail": "pic/Buckle Up.jpeg",
+        "audio": "assets/audio/song3.mp3"
+      }
+    ],
+  "TopArtist":[
+          {
+            "name": "Arijit Singh",
+            "image": "assets/image/Arijit Singh.webp"
+          },
+          {
+            "name": "Badshah",
+            "image": "assets/image/Badshah.jpeg"
+          },
+          {
+            "name": "Neha Kakkar",
+            "image": "assets/image/neha.jpeg"
+          },
+          {
+            "name": "Atif Aslam",
+            "image": "assets/image/Atif.jpeg"
+          },
+          {
+            "name": "Sunidhi Chauhan",
+            "image": "assets/image/Sunidhi.webp"
+          },
+          {
+            "name": "Yo Yo Honey",
+            "image": "assets/image/Yo Yo Honey.jpeg"
+          },
+          {
+            "name": "Lata Mangeshkar",
+            "image": "assets/image/Lata Mangeshkar.jpeg"
+          },
+          {
+            "name": "Mohammed Rafi",
+            "image": "assets/image/Mohammed.jpeg"
+          },
+          {
+            "name": "Rahat Fateh",
+            "image": "assets/image/Rahat Fateh.jpeg"
+          },
+          {
+            "name": "Mika Singh",
+            "image": "assets/image/Mika.jpeg"
+          },
+          {
+            "name": "Diljit Dosanjh",
+            "image": "assets/image/Diljit1.webp"
+          },
+          {
+            "name": "Akhil",
+            "image": "assets/image/Akhil.jpeg"
+          }
+        ]
+}
