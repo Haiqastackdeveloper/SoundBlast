@@ -273,7 +273,7 @@ cursor: pointer;
 }
 
 #currentSongTitle {
-color: #ff4757;
+color: white;
 text-align: center;
 flex-grow: 1;
 }
