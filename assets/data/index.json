@@ -260,160 +260,160 @@
   "rock":[
     
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Senorita",
+      "artist": "Farhan, Hrithik",
+      "thumbnail": "pic/Senorita.jpeg",
+      "audio": "song/Senorita.mp3"
     },
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Dil Se Re",
+      "artist": "A.R Rahman",
+      "thumbnail": "pic/Dil Se Re.jpeg",
+      "audio": "song/Dil Se Re.mp3"
     },
 
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Khwabon Parindey",
+      "artist": "Shankar, Alyssa",
+      "thumbnail": "pic/Khwabon Ke Parindey.jpeg",
+      "audio": "song/Khwabon Ke Parindey.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Hotel California",
+      "artist": "Don Henley",
+      "thumbnail": "pic/Hotel California.jpeg",
+      "audio": "song/Hotel California.mp3"
     }
   ],
   "hiphop":[
     
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Juice",
+      "artist": "Lil Uzi Vert",
+      "thumbnail": "pic/juice.jpeg",
+      "audio": "song/juice.mp3"
     },
 
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Tere Bina",
+      "artist": "Zaeden, Rupee",
+      "thumbnail": "pic/Tere Bina.jpeg",
+      "audio": "song/Tere Bina.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Chitta Kurta",
+      "artist": "Karan Aujla",
+      "thumbnail": "pic/Chitta Kurta.jpeg",
+      "audio": "song/Chitta Kurta.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Kaam 25",
+      "artist": "DIVINE",
+      "thumbnail": "pic/Kaam 25.jpeg",
+      "audio": "song/Kaam 25.mp3"
     }
   ],
   "classical":[
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Raga Desh",
+      "artist": "Pandit Jasraj",
+      "thumbnail": "pic/Pandit Jasraj.jpeg",
+      "audio": "song/Pandit Jasraj.mp3"
     },
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Raga Kafi",
+      "artist": "Kishori Amonkar",
+      "thumbnail": "pic/Raga Kafi.jpeg",
+      "audio": "song/Raga Kafi.mp3"
     },
 
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Four Seasons",
+      "artist": "Antonio Vivald",
+      "thumbnail": "pic/Four Seasons.jpeg",
+      "audio": "song/Four Seasons.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Raga Saveri",
+      "artist": "G.N. Balasubramaniam",
+      "thumbnail": "pic/G.N. Balasubramaniam.jpeg",
+      "audio": "song/G.N.Balasubrama.mp3"
     }
     ],
     "oldsongs":[
       {
-        "title": "",
-        "artist": "Ed Sheeran",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Aashiq",
+        "artist": "Alka, Roop Kumar",
+        "thumbnail": "pic/Aashiq.jpeg",
+        "audio": "song/Aashiq.mp3"
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Dekha Ek Khwab",
+        "artist": "Kishore, Lata",
+        "thumbnail": "pic/Dekha Ek Khwab.jpeg",
+        "audio": "song/Dekha Ek Khwab.mp3"
       },
       {
-        "title": "",
-        "artist": "Ed Sheeran",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Mere Piya",
+        "artist": "Shamshad",
+        "thumbnail": "pic/Mere Piya.jpeg",
+        "audio": "song/Mere-Piya.mp3"
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Muskurahaton",
+        "artist": "Mukesh",
+        "thumbnail": "pic/Kisi ki Muskurahaton.jpeg",
+        "audio": "song/Muskurahaton.mp3"
       },
   
   {
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "assets/audio/song1.mp3"
+        "title": "Mera Joota",
+        "artist": "Mukesh",
+        "thumbnail": "pic/Mera Joota.jpeg",
+        "audio": "song/Mera Joota.mp3"
       },
       {
-        "title": "",
-        "artist": "Ed Sheeran",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Ek Pardesi",
+        "artist": "Lata Mangeshkar",
+        "thumbnail": "pic/Ek Pardesi.jpeg",
+        "audio": "song/Ek Pardesi.mp3"
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Maan Mera Ehsan",
+        "artist": "Kishore Kumar",
+        "thumbnail": "pic/Maan Mera Ehsan.jpeg",
+        "audio": "song/Maan Mera Ehsan.mp3"
       },
       {
-        "title": "",
-        "artist": "Ed Sheeran",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Mere Sapno Ki Rani",
+        "artist": "Kishore Kumar",
+        "thumbnail": "pic/Mere Sapno Ki Rani.jpeg",
+        "audio": "song/Mere Sapno Ki Rani.mp3"
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Milo Na Tum",
+        "artist": "Kishore Kumar",
+        "thumbnail": "pic/Milo Na Tum.jpeg",
+        "audio": "song/Milo Na Tum.mp3"
       },
   
   {
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "assets/audio/song1.mp3"
+        "title": "Awara Hoon",
+        "artist": "Mukesh",
+        "thumbnail": "pic/Awara Hoon.jpeg",
+        "audio": "song/Awara Hoon.mp3"
       },
       {
-        "title": "",
-        "artist": "Ed Sheeran",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Yeh Raaten",
+        "artist": "Sanam",
+        "thumbnail": "pic/Yeh Raaten.jpeg",
+        "audio": "song/Yeh Raaten.mp3"
       },
       {
-        "title": "Levitating",
-        "artist": "Dua Lipa",
-        "thumbnail": "pic/Buckle Up.jpeg",
-        "audio": "song/.mp3"
+        "title": "Qayamat Hogi",
+        "artist": "Kishore Kumar's",
+        "thumbnail": "pic/Qayamat Hogi.jpeg",
+        "audio": "song/Qayamat Hogi.mp3"
       }
     ],
     "english":[
