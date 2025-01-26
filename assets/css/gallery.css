@@ -113,7 +113,12 @@ nav .nav-item a:hover {
     padding: 20px;
     padding-top: 30px;
 }
+.gallery-item {
+  width: 20%;
 
+  /* object-fit: cover; */
+  /* border-radius: 10px; */
+}
 .gallery-item img {
     width: 100%;
     height: 200px;

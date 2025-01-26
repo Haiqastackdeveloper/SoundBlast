@@ -281,7 +281,7 @@
     {
       "title": "Hotel California",
       "artist": "Don Henley",
-      "thumbnail": "pic/Hotel California.jpeg",
+      "thumbnail": "pic/Khwabon Ke Parindey.jpeg",
       "audio": "song/Hotel California.mp3"
     }
   ],
@@ -362,7 +362,7 @@
       {
         "title": "Muskurahaton",
         "artist": "Mukesh",
-        "thumbnail": "pic/Kisi ki Muskurahaton.jpeg",
+        "thumbnail": "pic/Muskurahaton.jpeg",
         "audio": "song/Muskurahaton.mp3"
       },
   
@@ -418,112 +418,112 @@
     ],
     "english":[
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "thumbnail": "pic/Let Me Down Slowly.jpeg",
+      "audio": "song/Let Me Down Slowly.mp3"
     },
     {
-      "title": "",
+      "title": "Love Me Like You Do",
       "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "thumbnail": "pic/Love Me Like You Do.jpeg",
+      "audio": "song/Love Me Like You Do.mp3"
     },
     {
-      "title": "Levitating",
+      "title": "Imagine Dragons Believer",
       "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "thumbnail": "pic/Imagine Dragons Believer.jpeg",
+      "audio": "song/Imagine Dragons Believer.mp3"
     },
 
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "thumbnail": "pic/Someone You Loved.jpg",
+      "audio": "song/Someone You Loved.mp3"
     
     }
   ],
   "hindi":[
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "thumbnail": "pic/Jo Tum Mere Ho.jpeg",
+      "audio": "song/Jo Tum Mere Ho.mp3"
     },
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka, Arijit Singh",
+      "thumbnail": "pic/Agar Tum Saath Ho.jpeg",
+      "audio": "song/Agar Tum Saath Ho.mp3"
     },
 
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Ae Dil Hai Mushkil",
+      "artist": "Ranbir, Arijit Singh",
+      "thumbnail": "pic/Ae Dil Hai Mushkil.jpeg",
+      "audio": "song/Ae Dil Hai Mushkil.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Apna Bana Le",
+      "artist": "Sachin-Jigar,Arijit",
+      "thumbnail": "pic/Apna Bana Le.jpeg",
+      "audio": "song/Apna Bana Le.mp3"
     }
   ],
   "korean":[
     
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Boy With Luv",
+      "artist": "BTS ft. Halsey",
+      "thumbnail": "pic/Boy With Luv.jpeg",
+      "audio": "song/Boy With Luv.mp3"
     },
 
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "thumbnail": "pic/Gangnam Style.jpeg",
+      "audio": "song/Gangnam Style.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Fancy",
+      "artist": "TWICE",
+      "thumbnail": "pic/Fancy.jpeg",
+      "audio": "song/Fancy.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Any Song",
+      "artist": "ZICO",
+      "thumbnail": "pic/Any Song.jpeg",
+      "audio": "song/Any Song.mp3"
     }
   ],
   "spanish":[
     
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Vaina Loca",
+      "artist": "Ozuna",
+      "thumbnail": "pic/Vaina Loca.jpeg",
+      "audio": "song/Vaina Loca.mp3"
     },
     {
-      "title": "Levitating",
-      "artist": "Dua Lipa",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Havana",
+      "artist": "Young Thug",
+      "thumbnail": "pic/Havana.jpeg",
+      "audio": "song/Havana.mp3"
     },
 {
-      "title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "assets/audio/song1.mp3"
+      "title": "Suavemente",
+      "artist": "Elvis Crespo",
+      "thumbnail": "pic/Suavemente.jpeg",
+      "audio": "song/Suavemente.mp3"
     },
     {
-      "title": "",
-      "artist": "Ed Sheeran",
-      "thumbnail": "pic/Buckle Up.jpeg",
-      "audio": "song/.mp3"
+      "title": "Ay Vamos",
+      "artist": "J Balvin",
+      "thumbnail": "pic/Ay Vamos.jpeg",
+      "audio": "song/Ay Vamos.mp3"
     }
     ],
   "search":[
